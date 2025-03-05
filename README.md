@@ -11,7 +11,8 @@ sudo git clone https://github.com/vedantjawanjar/PortHawk.git
 
 cd PortHawk/
 
-sudo chmod +x setup.sh
+sudo chmod +x PortHawk setup.sh  
+
 
 sudo bash setup.sh
 
