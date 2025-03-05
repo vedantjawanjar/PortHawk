@@ -135,7 +135,7 @@ for thread in thread_list:
 for thread in thread_list:
   thread.join()
 os.system("clear")
-portmapper()
+porthawk()
 print("-"*50)
 print("|S.NO\t|\tOPEN PORTS  |   Assigned Service |")
 print("-"*50+"\n")
