@@ -39,14 +39,14 @@ pip3 install pyfiglet
 
 pip3 install termcolor
 
-chmod +x porthawk
+chmod +x PortHawk
 
-cp porthawk /usr/bin/
+cp PortHawk /usr/bin/
 
 echo "\n***done***\n"
 
 clear
 
-porthawk --help
+PortHawk --help
 
 
